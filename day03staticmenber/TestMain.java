@@ -1,6 +1,6 @@
+import Student.Student;
 
-
- class Student {
+class Student {
     String name;             // instance variable
     int rollNumber;          // instance variable
     static String college = "GNIM"; // static variable (shared by all)
