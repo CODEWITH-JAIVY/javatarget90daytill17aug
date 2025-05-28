@@ -30,6 +30,7 @@ public class ArrayObject {
         System.out.println("Roll Number :-" + students[i].roll_number );
         System.out.println("Age :-" + students[i].age  );
         System.out.println();
+        
 
     }
 
